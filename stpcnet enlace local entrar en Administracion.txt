@@ -1,0 +1,10 @@
+http://127.0.0.1:8000/admin/login/?next=/admin/
+
+
+
+otro tema recordar que el txt de este directorio es muy importante para migrar las instalaciones
+requirements.txt
+
+
+
+
